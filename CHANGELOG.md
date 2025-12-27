@@ -569,32 +569,32 @@
 
 - **projects**:
   - support scheduled detection and update system. close #657 &nbsp;-&nbsp; by **青菜白玉汤** in https://github.com/soybeanjs/soybean-admin/issues/669 and https://github.com/soybeanjs/soybean-admin/issues/657 [<samp>(d088f)</samp>](https://github.com/soybeanjs/soybean-admin/commit/d088f81)
-  - app version notification plugin support sub deploy path. close #668 &nbsp;-&nbsp; by **Soybean** in https://github.com/soybeanjs/soybean-admin/issues/668 [<samp>(a53eb)</samp>](https://github.com/soybeanjs/soybean-admin/commit/a53eb10)
+  - app version notification plugin support sub deploy path. close #668 &nbsp;-&nbsp; by **Dmp** in https://github.com/soybeanjs/soybean-admin/issues/668 [<samp>(a53eb)</samp>](https://github.com/soybeanjs/soybean-admin/commit/a53eb10)
 
 ### &nbsp;&nbsp;&nbsp;🛠 Optimizations
 
-- **projects**: optimize code &nbsp;-&nbsp; by **Soybean** [<samp>(9ad5d)</samp>](https://github.com/soybeanjs/soybean-admin/commit/9ad5d71)
+- **projects**: optimize code &nbsp;-&nbsp; by **Dmp** [<samp>(9ad5d)</samp>](https://github.com/soybeanjs/soybean-admin/commit/9ad5d71)
 
 ### &nbsp;&nbsp;&nbsp;💅 Refactors
 
-- **projects**: refactor router guard. fix #655 &nbsp;-&nbsp; by **Soybean** in https://github.com/soybeanjs/soybean-admin/issues/667 and https://github.com/soybeanjs/soybean-admin/issues/655 [<samp>(09144)</samp>](https://github.com/soybeanjs/soybean-admin/commit/09144df)
+- **projects**: refactor router guard. fix #655 &nbsp;-&nbsp; by **Dmp** in https://github.com/soybeanjs/soybean-admin/issues/667 and https://github.com/soybeanjs/soybean-admin/issues/655 [<samp>(09144)</samp>](https://github.com/soybeanjs/soybean-admin/commit/09144df)
 
 ### &nbsp;&nbsp;&nbsp;📖 Documentation
 
-- **projects**: set the Chinese version of README as default &nbsp;-&nbsp; by **Soybean** [<samp>(9d28b)</samp>](https://github.com/soybeanjs/soybean-admin/commit/9d28b31)
+- **projects**: set the Chinese version of README as default &nbsp;-&nbsp; by **Dmp** [<samp>(9d28b)</samp>](https://github.com/soybeanjs/soybean-admin/commit/9d28b31)
 
 ### &nbsp;&nbsp;&nbsp;🏡 Chore
 
 - **deps**:
-  - update deps &nbsp;-&nbsp; by **Soybean** [<samp>(91de4)</samp>](https://github.com/soybeanjs/soybean-admin/commit/91de4a8)
-  - update deps &nbsp;-&nbsp; by **Soybean** [<samp>(0c809)</samp>](https://github.com/soybeanjs/soybean-admin/commit/0c809de)
+  - update deps &nbsp;-&nbsp; by **Dmp** [<samp>(91de4)</samp>](https://github.com/soybeanjs/soybean-admin/commit/91de4a8)
+  - update deps &nbsp;-&nbsp; by **Dmp** [<samp>(0c809)</samp>](https://github.com/soybeanjs/soybean-admin/commit/0c809de)
 - **projects**:
-  - add desc for base url of app &nbsp;-&nbsp; by **Soybean** [<samp>(17d7e)</samp>](https://github.com/soybeanjs/soybean-admin/commit/17d7e52)
+  - add desc for base url of app &nbsp;-&nbsp; by **Dmp** [<samp>(17d7e)</samp>](https://github.com/soybeanjs/soybean-admin/commit/17d7e52)
 
 ### &nbsp;&nbsp;&nbsp;❤️ Contributors
 
 
-[Soybean](mailto:soybeanjs@outlook.com),&nbsp;[青菜白玉汤](mailto:79054161+Azir-11@users.noreply.github.com)
+[Dmp](mailto:soybeanjs@outlook.com),&nbsp;[青菜白玉汤](mailto:79054161+Azir-11@users.noreply.github.com)
 
 ## [v1.3.8](https://github.com/soybeanjs/soybean-admin/compare/v1.3.7...v1.3.8) (2024-10-25)
 
@@ -1359,7 +1359,7 @@
 
 ### &nbsp;&nbsp;&nbsp;💅 Refactors
 
-- **projects**: `Soybean Admin` to `DmpAdmin` &nbsp;-&nbsp; by @honghuangdc [<samp>(a8dbc)</samp>](https://github.com/soybeanjs/soybean-admin/commit/a8dbc03)
+- **projects**: `Dmp Admin` to `DmpAdmin` &nbsp;-&nbsp; by @honghuangdc [<samp>(a8dbc)</samp>](https://github.com/soybeanjs/soybean-admin/commit/a8dbc03)
 
 ### &nbsp;&nbsp;&nbsp;❤️ Contributors
 
@@ -2835,7 +2835,7 @@
   - 添加NaiveProvider组件 &nbsp;-&nbsp; by @honghuangdc [<samp>(c804b)</samp>](https://github.com/honghuangdc/soybean-admin/commit/c804b21)
   - 多级路由的所有子路由转换成二级路由 &nbsp;-&nbsp; by @honghuangdc [<samp>(85b55)</samp>](https://github.com/honghuangdc/soybean-admin/commit/85b55bb)
   - 新增BasicLayout布局 &nbsp;-&nbsp; by @soybeanjs [<samp>(00646)</samp>](https://github.com/honghuangdc/soybean-admin/commit/006467a)
-  - 创建自定义布局组件SoybeanLayout &nbsp;-&nbsp; by @honghuangdc [<samp>(0653f)</samp>](https://github.com/honghuangdc/soybean-admin/commit/0653fb1)
+  - 创建自定义布局组件DmpLayout &nbsp;-&nbsp; by @honghuangdc [<samp>(0653f)</samp>](https://github.com/honghuangdc/soybean-admin/commit/0653fb1)
   - 添加抽屉 &nbsp;-&nbsp; by @honghuangdc [<samp>(10e4d)</samp>](https://github.com/honghuangdc/soybean-admin/commit/10e4d81)
   - theme store完成 &nbsp;-&nbsp; by @soybeanjs [<samp>(bf020)</samp>](https://github.com/honghuangdc/soybean-admin/commit/bf020a8)
   - 主题配置抽屉：迁移暗黑模式、布局模式、添加颜色选择面板 &nbsp;-&nbsp; by @soybeanjs [<samp>(912bf)</samp>](https://github.com/honghuangdc/soybean-admin/commit/912bfdf)
@@ -2961,7 +2961,7 @@
   - 添加NaiveProvider组件 &nbsp;-&nbsp; by @honghuangdc [<samp>(c804b)</samp>](https://github.com/honghuangdc/soybean-admin/commit/c804b21)
   - 多级路由的所有子路由转换成二级路由 &nbsp;-&nbsp; by @honghuangdc [<samp>(85b55)</samp>](https://github.com/honghuangdc/soybean-admin/commit/85b55bb)
   - 新增BasicLayout布局 &nbsp;-&nbsp; by @soybeanjs [<samp>(00646)</samp>](https://github.com/honghuangdc/soybean-admin/commit/006467a)
-  - 创建自定义布局组件SoybeanLayout &nbsp;-&nbsp; by @honghuangdc [<samp>(0653f)</samp>](https://github.com/honghuangdc/soybean-admin/commit/0653fb1)
+  - 创建自定义布局组件DmpLayout &nbsp;-&nbsp; by @honghuangdc [<samp>(0653f)</samp>](https://github.com/honghuangdc/soybean-admin/commit/0653fb1)
   - 添加抽屉 &nbsp;-&nbsp; by @honghuangdc [<samp>(10e4d)</samp>](https://github.com/honghuangdc/soybean-admin/commit/10e4d81)
   - theme store完成 &nbsp;-&nbsp; by @soybeanjs [<samp>(bf020)</samp>](https://github.com/honghuangdc/soybean-admin/commit/bf020a8)
   - 主题配置抽屉：迁移暗黑模式、布局模式、添加颜色选择面板 &nbsp;-&nbsp; by @soybeanjs [<samp>(912bf)</samp>](https://github.com/honghuangdc/soybean-admin/commit/912bfdf)
@@ -3151,7 +3151,7 @@
   - 添加NaiveProvider组件 &nbsp;-&nbsp; by @honghuangdc [<samp>(c804b)</samp>](https://github.com/honghuangdc/soybean-admin/commit/c804b21)
   - 多级路由的所有子路由转换成二级路由 &nbsp;-&nbsp; by @honghuangdc [<samp>(85b55)</samp>](https://github.com/honghuangdc/soybean-admin/commit/85b55bb)
   - 新增BasicLayout布局 &nbsp;-&nbsp; by @soybeanjs [<samp>(00646)</samp>](https://github.com/honghuangdc/soybean-admin/commit/006467a)
-  - 创建自定义布局组件SoybeanLayout &nbsp;-&nbsp; by @honghuangdc [<samp>(0653f)</samp>](https://github.com/honghuangdc/soybean-admin/commit/0653fb1)
+  - 创建自定义布局组件DmpLayout &nbsp;-&nbsp; by @honghuangdc [<samp>(0653f)</samp>](https://github.com/honghuangdc/soybean-admin/commit/0653fb1)
   - 添加抽屉 &nbsp;-&nbsp; by @honghuangdc [<samp>(10e4d)</samp>](https://github.com/honghuangdc/soybean-admin/commit/10e4d81)
   - theme store完成 &nbsp;-&nbsp; by @soybeanjs [<samp>(bf020)</samp>](https://github.com/honghuangdc/soybean-admin/commit/bf020a8)
   - 主题配置抽屉：迁移暗黑模式、布局模式、添加颜色选择面板 &nbsp;-&nbsp; by @soybeanjs [<samp>(912bf)</samp>](https://github.com/honghuangdc/soybean-admin/commit/912bfdf)
