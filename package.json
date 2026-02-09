@@ -1,15 +1,10 @@
 {
-  "name": "soybean-admin",
+  "name": "dmp-admin",
   "type": "module",
   "version": "2.0.2",
   "description": "A fresh and elegant admin template, based on Vue3、Vite7、TypeScript、NaiveUI and UnoCSS. 一个基于Vue3、Vite7、TypeScript、NaiveUI and UnoCSS的清新优雅的中后台模版。",
-  "author": {
-    "name": "dmp",
-    "email": "soybeanjs@outlook.com",
-    "url": "https://github.com/soybeanjs"
-  },
   "license": "MIT",
-  "homepage": "https://github.com/soybeanjs/soybean-admin",
+  "homepage": "",
   "repository": {
     "url": "https://github.com/soybeanjs/soybean-admin.git"
   },

@@ -48,6 +48,7 @@ function createProxyItem(item: App.Service.ServiceConfigItem, enableLog: boolean
         consola.log(bgRed(`Error: ${req.method} `), green(`${options.target}${req.url}`));
       });
     },
+    // 不再移除 proxyPattern 前缀，保留 /api 让后端接收
     rewrite: path => path.replace(new RegExp(`^${item.proxyPattern}`), '')
   };
 
